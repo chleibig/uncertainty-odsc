@@ -1,0 +1,10 @@
+jupyterlab
+matplotlib
+numpy
+scipy
+seaborn
+sklearn
+tensorflow
+tqdm
+tf-models-official
+
