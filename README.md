@@ -18,7 +18,8 @@ The session will consist of two parts:
 2. Familiarity with Python & a DL framework such as Tensorflow or Pytorch
 
 #### Material
-Code and slides will be provided at the day of the tutorial in this repository.
+* [Slides](https://docs.google.com/presentation/d/18yQwiwAjOKklrpicwiKe-2K0WiGjFhKHrk-TJbuxiys/edit?usp=sharing)
+* [Code demo](https://github.com/chleibig/uncertainty-odsc/blob/master/odsc_demo.ipynb)
 
 #### Setup
 If you want to put your hands on the code demo (you can also just follow along), you should setup 
